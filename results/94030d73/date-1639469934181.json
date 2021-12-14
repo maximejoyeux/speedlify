@@ -1,0 +1,50 @@
+{
+  "url": "https://www.selency.fr/",
+  "requestedUrl": "https://www.selency.fr/",
+  "timestamp": 1639469988278,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.11,
+    "accessibility": 0.65,
+    "bestPractices": 0.73,
+    "seo": null,
+    "total": 149
+  },
+  "firstContentfulPaint": 3759.87,
+  "speedIndex": 10173.355029005206,
+  "largestContentfulPaint": 16237.191999999997,
+  "totalBlockingTime": 2796.000000000002,
+  "cumulativeLayoutShift": 0.5407446212768554,
+  "timeToInteractive": 17901.297999999995,
+  "maxPotentialFirstInputDelay": 454,
+  "timeToFirstByte": 272.84299999999996,
+  "weight": {
+    "summary": "122 requests • 1,926 KiB",
+    "total": 1972325,
+    "image": 216702,
+    "imageCount": 19,
+    "script": 1371922,
+    "scriptCount": 50,
+    "document": 52307,
+    "font": 100274,
+    "fontCount": 8,
+    "stylesheet": 176535,
+    "stylesheetCount": 3,
+    "thirdParty": 1736115,
+    "thirdPartyCount": 101
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 2089,
+    "violations": 86
+  }
+}
